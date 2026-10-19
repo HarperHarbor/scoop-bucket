@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Command-line client for HarperHarbor administrators",
   "homepage": "https://harperharbor.com",
   "architecture": {
     "64bit": {
-      "url": "https://cli.harperharbor.com/releases/v0.2.0/harperharbor_0.2.0_windows_amd64.zip",
-      "hash": "7b222253ec0732d0469182fdf02d048acc5523fd796f6631e66f5101351cdc4c"
+      "url": "https://cli.harperharbor.com/releases/v0.2.1/harperharbor_0.2.1_windows_amd64.zip",
+      "hash": "85aa0b9f0395b834c723ed3f61e4b520df0d068fc5cf1df1f3e0bb53d07d10bb"
     },
     "arm64": {
-      "url": "https://cli.harperharbor.com/releases/v0.2.0/harperharbor_0.2.0_windows_arm64.zip",
-      "hash": "5517a88b6cce629bf105d66e081d5fe7d321f1d0e5498cd5ac8af400718f3edc"
+      "url": "https://cli.harperharbor.com/releases/v0.2.1/harperharbor_0.2.1_windows_arm64.zip",
+      "hash": "0abfba1a1b351082823d1bbc75e990e31a9f3ed61e3c33d409f0b838178a0315"
     }
   },
   "bin": "harperharbor.exe"
